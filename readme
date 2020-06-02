@@ -1,0 +1,3 @@
+This bot is made using autopygui module of python.
+I am detecting the environment first i.e day or night, 
+then if any obstacle is detected on the way of dino then it will automatically dodge it.
